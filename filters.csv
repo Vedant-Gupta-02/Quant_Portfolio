@@ -1,0 +1,37 @@
+id,name,description,category,unit
+1,Average DE,Average Debt-to-Equity ratio over time,Leverage,x
+2,Average ROCE,Average Return on Capital Employed,Profitability,%
+3,Average ROE,Average Return on Equity,Profitability,%
+4,Average CFO/PBIT,Average ratio of Operating Cash Flow to PBIT,Cash Flow,x
+5,DE CAGR,CAGR of Debt-to-Equity over period,Leverage,%
+6,ROCE CAGR,CAGR of Return on Capital Employed,Profitability,%
+7,ROE CAGR,CAGR of Return on Equity,Profitability,%
+8,NetSales CAGR,CAGR of Net Sales (Revenue),Growth,%
+9,PBIDT CAGR,"CAGR of PBIDT (Profit before Interest, Depreciation, and Taxes)",Growth,%
+10,PBIT CAGR,CAGR of Profit Before Interest & Taxes,Profitability,%
+11,PBT CAGR,CAGR of Profit Before Tax,Profitability,%
+12,PAT CAGR,CAGR of Profit After Tax,Profitability,%
+13,CFO CAGR,CAGR of Cash Flow from Operations,Cash Flow,%
+14,FCFF CAGR,CAGR of Free Cash Flow to Firm,Cash Flow,%
+15,CFO/PBIT CAGR,CAGR of CFO/PBIT ratio,Cash Flow,%
+16,PE (Trailing),Price-to-Earnings ratio using trailing EPS,Valuation,x
+17,PE (1 Yr Forward),Forward P/E ratio based on next year’s EPS estimates,Valuation,x
+18,PE (2 Yr Forward),Forward P/E ratio based on two-year forward EPS estimates,Valuation,x
+19,Price / CFO,Price to Cash Flow from Operations,Valuation,x
+20,Price / FCFF,Price to Free Cash Flow to Firm,Valuation,x
+21,GrossSales,Gross Sales reported,Growth,₹
+22,OtherIncome,Other income reported in financials,Profitability,₹
+23,CFI,Cash Flow from Investing activities,Cash Flow,₹
+24,CFF,Cash Flow from Financing activities,Cash Flow,₹
+25,TotalDebt,Total outstanding debt,Leverage,₹
+26,Cash,Cash and cash equivalents,Liquidity,₹
+27,LoansAdvances,Loans and Advances (assets),Balance Sheet,₹
+28,TotalAssets,Total Assets on balance sheet,Balance Sheet,₹
+29,Networth,Net Worth (Equity base),Balance Sheet,₹
+30,CapitalEmployed,Total Capital Employed,Balance Sheet,₹
+31,PB,Price-to-Book ratio,Valuation,x
+32,PEG,Price/Earnings-to-Growth ratio,Valuation,x
+33,Dividend Yield,Dividends per share / Price,Valuation,%
+34,Dividend Payout Ratio,Dividends paid / Net Profit,Profitability,%
+35,5Y Dividend CAGR,CAGR of dividends paid over 5 years,Dividend,%
+36,Dividend per Share (DPS),Dividend per share announced,Dividend,₹

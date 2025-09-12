@@ -1,0 +1,5 @@
+ticker,name,isin,sector,industry,country,listing_date
+TCS,Tata Consultancy Services,INE467B01029,IT,Software,India,2004-08-25
+INFY,Infosys Ltd,INE009A01021,IT,Software,India,1993-06-14
+HDFCBANK,HDFC Bank,INE040A01034,Financials,Banking,India,1995-05-01
+RELIANCE,Reliance Industries,INE002A01018,Energy,Oil & Gas,India,1977-01-01

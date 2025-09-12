@@ -1,0 +1,4 @@
+id,name,description,unit,frequency
+101,Average ROE,5Y average ROE,%,yearly
+102,Debt to Equity,Debt to equity ratio,x,yearly
+103,PE Ratio,Price to Earnings ratio,x,yearly
